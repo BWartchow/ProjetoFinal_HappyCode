@@ -31,10 +31,10 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul  class="navbar-nav ms-auto">
-                    <li class="nav-item active"><a class="nav-link" href="#home">Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+                    <li class="nav-item active"><a class="nav-link" href="#inicio">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#sobre">About</a></li>
 					<li class="nav-item"><a class="nav-link" href="#portfolio">Works</a></li>
-					<li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+					<li class="nav-item"><a class="nav-link" href="#contato">Contact</a></li>
                 </ul>
             </div>
         </div>
@@ -43,10 +43,10 @@
     <section class="bgimage" id="inicio">
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 hero-text">
+				<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 hero-text">
                     <p class="hero_desc">My name is</p>
 					<h2 class="hero_titulo">Bê Wartchow</h2>
-                    <div class="card">
+                    <div class="subtitle">
                         <p>I'm a web developer Jr.</p>
                     </div>
 				</div>
@@ -55,8 +55,7 @@
 	</section>
 
     <!-- Seção Sobre -->
-
-	<section>
+	<section id="sobre">
 		<div class="container mt-4 pt-4">
 			<div class="row mt-4">
 				<!-- Imagem -->
@@ -64,9 +63,9 @@
 					<img src="assets/about.jpg" class="aboutimage">
 				</div>
 				<!-- infos -->
-				<div class="col-lg-8"style="padding-top: 2rem;padding-right: 2rem;">
-					<h1>About me</h1>
-					<h5>A Veterinary learning to Code</h5><br>
+				<div id="about" class="col-lg-8"style="padding-top: 2rem;padding-right: 2rem;">
+					<h1 style="text-transform: uppercase; font-weight: bold;">About me</h1>
+					<h4 style="font-weight: bold;">A Veterinary learning to Code</h4><br>
 					<div class="row mt-3" style="padding: 3rem; padding-right: 0;">
 					<p>Hi, my name is Bê. Nice to meet you!<br>
 						I'm an autistic and transgender person, with Veterinary Medicine degree	at <a class="link" href="http://www.ufrgs.br/ufrgs/inicial" target="_blank">UFRGS</a>.</p>
@@ -82,7 +81,7 @@
 							</ul>
 						</div>
 						<div class="row mt-3">
-							<h5>Languages & Frameworks & Tools & Abilities</h5>
+							<h4  style="font-weight: bold;">Languages & Frameworks & Tools & Abilities</h4>
 							<table>
 								<tr>
 									<td></td>
@@ -129,11 +128,145 @@
 		</div>
 	</section>
 
-    <!-- Seção Portfolio -->
+<!-- Seção Portfólio 4x1 -->
+<section id="portfolio">
+	<div class="container mt-3">
+		<h1 id="works">My Works</h1>
+		<section class="slider">
+			<input name='slide' type="radio" checked>
+			<input name='slide' type="radio" >
+			<input name='slide' type="radio">
+			<input name='slide' type="radio">
+			<input name='slide' type="radio">
+			<input name='slide' type="radio">
+			<input name='slide' type="radio">
+			<div class="slider-content">
+				<div class="slider-item">
+					<div class="cards">
+						<h3>01.</h3>
+						<img class="card-img-top" src="assets/estante.png" style="width:100%">
+						<div class="card-body">
+							<h4 class="card-title">Bookshelf</h4>
+							<p>First project with HTML and CSS, developed during "Do Zero ao primeiro Site" course, by +praTI Institution. These were my first steps in Web Development, working with divs, images, tables and lists.</p>
+							<div class="container" id="button">
+								<a href="https://estantevirtualbsw.netlify.app/" target="_blank">Check it out here</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="slider-item">
+					<div class="cards">
+						<h3>02.</h3>
+						<img class="card-img-top" src="assets/locadora.png" style="width:100%">
+						<div class="card-body">
+							<h4 class="card-title">Locadora 2000</h4>
+							<p>Project with HTML, CSS and Bootstrap framework, developed during "Do Zero ao primeiro Site" course, by +praTI Institution. Tables, Forms and inputs practice</p>
+							<div class="container" id="button">
+								<a href="https://locadorabsw.netlify.app/" target="_blank">Check it out here</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="slider-item">
+					<div class="cards">
+						<h3>03.</h3>
+						<img class="card-img-top" src="assets/hcv.png" style="width:100%">
+						<div class="card-body">
+							<h4 class="card-title">First Website</h4>
+							<p>First Website project with HTML and CSS, developed during "Diversidade em Tech" bootcamp by <a href="https://www.dio.me/" target="_blank" class="link">DIO.</a> Display grid and iframe tags practice.</p>
+							<div class="container" id="button">
+								<a href="https://bsw-desafio-html.netlify.app/" target="_blank">Check it out here</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="slider-item">
+					<div class="cards">
+						<h3>04.</h3>
+						<img class="card-img-top" src="assets/landing.png" style="width:100%">
+						<div class="card-body">
+							<h4 class="card-title">First Landing Page</h4>
+							<p>First Landing Page with HTML, CSS and a Figma prototype, developed during "Diversidade em Tech" bootcamp by <a href="https://www.dio.me/" target="_blank" class="link">DIO.</a></p>
+							<div class="container" id="button">
+								<a href="https://bsw-desafio-css.netlify.app/" target="_blank">Check it out here</a>
+							</div>
+						</div>
+					</div>
 
-    <!-- Seção Contatos -->
+				</div>
+				<div class="slider-item">
+					<div class="cards">
+						<h3>05.</h3>
+						<img class="card-img-top" src="assets/pokedex.png" style="width:100%">
+						<div class="card-body">
+							<h4 class="card-title">Pokedex</h4>
+							<p>First project with JavaScript, HTML and CSS, developed during "Diversidade em Tech" bootcamp by <a href="https://www.dio.me/" target="_blank" class="link">DIO.</a>In this project I have used for the first time an API Request, with Pokemon API</p>
+							<div class="container" id="button">
+								<a href="https://bsw-desafio-pokedex.netlify.app/" target="_blank">Check it out here</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="slider-item">
+					<div class="cards">
+						<h3>06.</h3>
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/5meX9C8CVVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+						<div class="card-body">
+							<h4 class="card-title">Third position at Hackatagro 2022</h4>
+							<p>We got Third position at the hackathon "Hackatagro 2022 - Desafio Segurança no Agro", with the app AgroBula. Agrobula is a prototype app that provides acessibility to agrobusiness.</p>
+							<div class="container" id="button">
+								<a href="https://bwartchow.github.io/Challenge_ONE_Decodificador//" target="_blank">Check it out here</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="slider-item">
+					<div class="cards">
+						<h3>07.</h3>
+						<img class="card-img-top" src="assets/encrypter.png" style="width:100%">
+						<div class="card-body">
+							<h4 class="card-title">Encrypter / Decrypter</h4>
+							<p>Project with JavaScript, HTML and CSS, developed during . This program will encrypt and decrypt texts using a simple crypter key.</p>
+							<div class="container" id="button">
+								<a href="https://bwartchow.github.io/Challenge_ONE_Decodificador//" target="_blank">Check it out here</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+</section>
 
+<!-- Seção Contatos -->
+<section id="contato">
+	<div class="flag">
+	<div class="frame">
+		<div class="card">
+			<div class="flip">
+				<div class="front">
+					<h1>Contact me!</h1>
+					<p class="flip-me">Flip</p>
+				</div>
+				<div class="back">
+					<h2><img src="assets/whats.png" id="fone">+55 51 99810-7090</h2>
+					<h3>Bê Wartchow</h3>
+					<div>
+						<a href="https://github.com/BWartchow"><img src="assets/github-original-wordmark.svg"></a>
+						<a href="https://www.linkedin.com/in/b-wartchow/"><img src="assets/linkedin.png"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+</section>
     <!-- Seção Footer -->
+<footer>
+	<div>
+		<p class="copyright">&copy; Copyright 2023</p>
+	</div>
+</footer>
 </body>
 
 
