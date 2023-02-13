@@ -45,7 +45,7 @@
  .bgimage{
      width: 100vw;
      height: 100vh;
-     background-image: url('heroimage.png');
+     background-image: url('img/heroimage.png');
      background-color: #00375C;
      background-size: cover;
      position: relative;
@@ -335,11 +335,13 @@ input[type="radio"] {
 	letter-spacing: 2px;
 	text-align: center;
 }
+/*Nome*/
 .back h2 {
 	font-size: 2rem;
 	margin: 8px;
 	color: #049DBF;
 }
+/*Telefone*/
 .back h3 {
 	color: rgba(255, 255, 255, 0.7);
 	font-weight: 300;
@@ -349,17 +351,16 @@ input[type="radio"] {
 #fone {
     width: 3rem;
 }
+/*Ícones social media*/
 .frame img {
 	width: 70px;
     padding: 10px;
 }
-
 .frame img:hover {
 	width: 90px;
 	cursor: pointer;
 }
-
-/**/
+/*Footer*/
 .copyright {
     padding-top: 1rem;
     color: #fff;
