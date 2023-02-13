@@ -1,18 +1,23 @@
 <img src="https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/banner.png">
-<h1> Projeto FInal - Do Zero ao Primeiro Site: portfolio </h1>
-
+<h1 align="center"> Projeto FInal - Do Zero ao Primeiro Site: portfolio </h1>
+<img src ="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge">
+<br>
 Este repositório contém o projeto final realizado no último módulo do curso Do Zero ao Primeiro Site ministrado pela HappyCode, via Programa +praTI.
 A +praTI é uma iniciativa da sociedade sem fins lucrativos que busca encontrar e capacitar novos talentos da área de TI. A HappyCode é uma empresa parceira, que ensina formação frontend para alunos da +praTI através do curso Do Zero ao Primeiro Site.
 O projeto final consiste em um site portfólio, com uma apresentação sobre quem sou, minha formação, experiências e uma galeria com os principais trabalhos realizados até então. Nem todos os trabalhos mostrados neste portfólio foram realizados durante as aulas da +praTI.
 <br>
-## Etapas:
+<h2>Etapas do projeto:</h2>
 Inicialmente, os alunos tiveram como tarefa criar um painel de referências para o projeto, com imagens, layouts, paletas de cores e fontes. Por ser pessoa transgênero, a paleta de cores do site foi retirada de uma ilustração inspirada na bandeira do orgulho trans. O quadro abaixo foi criado com a ferramenta Pure Ref:
+<br>
+<h4> Painel de referências: </h4>
 <img style="width: 70%;" src="https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/painel_de_referencias_BWartchow.png">
 A próxima tarefa consistiu em criar um protótipo de tela simples, da "homepage" do projeto. O protótipo abaixo foi realizado utilizando a ferramenta JustInMind:
 <br>
+<h4> Protótipo de tela: </h4>
 <img style="width: 70%;" src="https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Screen%201%401x.png">
 <img style="width: 70%;" src="https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Screen%202%401x.png">
 <br>
+<h4> Desenvolvimento do HTML e do CSS: </h4>
 Após, houveram três semanas para construção do site em si. Os requisitos a serem cumpridos eram:
 * Menu fixado, com links;
 * Seção inicial;
