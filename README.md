@@ -12,6 +12,7 @@ A próxima tarefa consistiu em criar um protótipo de tela simples, da "homepage
 <br>
 <img style="width: 70%;" src="https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Screen%201%401x.png">
 <img style="width: 70%;" src="https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Screen%202%401x.png">
+<br>
 Após, houveram três semanas para construção do site em si. Os requisitos a serem cumpridos eram:
 * Menu fixado, com links;
 * Seção inicial;
@@ -21,10 +22,10 @@ Após, houveram três semanas para construção do site em si. Os requisitos a s
 * Seção contato;
 * Footer;
 <br>
-Na segunda semana, foi entregue uma versão prévia do site, pasta MeuProjeto, e disponível abaixo. A responsividade do conteúdo para telas pequenas ainda não havia sido bem trabalhada.<br><br>
+Na segunda semana, foi entregue uma versão prévia do site, pasta MeuProjeto, e disponível abaixo. A responsividade do conteúdo para telas pequenas ainda não havia sido bem trabalhada. Uma nova versão foi entregue na terceira semana, pasta MeuProjeto_final_version, também disponível abaixo.<br>
 <h2> Entregas parciais: </h2>
 <h4> Versão segunda semana: </h4>
 - Prévia do projeto: <a href="https://previa-portfolio-bsw.netlify.app/">apenas para computador</a>
 <br>
 <h4> Versão terceira semana: </h4>
-- Projeto quase finalizado: <a href="https://previa-portfolio-bsw.netlify.app/">responsividade melhorada para telas pequenas</a>
+- Projeto quase finalizado: <a href="https://portfolio-bsw-v2.netlify.app/">responsividade melhorada para telas pequenas</a>
