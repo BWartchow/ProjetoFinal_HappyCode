@@ -20,7 +20,11 @@ Após, houveram três semanas para construção do site em si. Os requisitos a s
 * Seção contato;
 * Footer;
 <br>
-Na segunda semana, foi entregue uma versão prévia do site, pasta MeuProjeto, e disponível abaixo. A responsividade do conteúdo para telas pequenas ainda não havia sido bem trabalhada.<br>
-Entrega parcial:<br>
+Na segunda semana, foi entregue uma versão prévia do site, pasta MeuProjeto, e disponível abaixo. A responsividade do conteúdo para telas pequenas ainda não havia sido bem trabalhada.<br><br>
+# Entrega parcial:
+<br>
 Prévia do projeto: <a href="https://previa-portfolio-bsw.netlify.app/">apenas para computador</a>
 <br>
+# Versão terceira semana:
+<br>
+Projeto quase finalizado: <a href="https://previa-portfolio-bsw.netlify.app/">responsividade melhorada para telas pequenas</a>
