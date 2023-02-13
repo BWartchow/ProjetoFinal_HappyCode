@@ -1,4 +1,5 @@
-# Projeto FInal - Do Zero ao Primeiro Site: portfolio
+<img src="https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/banner.png">
+<h1> Projeto FInal - Do Zero ao Primeiro Site: portfolio </h1>
 
 Este repositório contém o projeto final realizado no último módulo do curso Do Zero ao Primeiro Site ministrado pela HappyCode, via Programa +praTI.
 A +praTI é uma iniciativa da sociedade sem fins lucrativos que busca encontrar e capacitar novos talentos da área de TI. A HappyCode é uma empresa parceira, que ensina formação frontend para alunos da +praTI através do curso Do Zero ao Primeiro Site.
@@ -21,10 +22,9 @@ Após, houveram três semanas para construção do site em si. Os requisitos a s
 * Footer;
 <br>
 Na segunda semana, foi entregue uma versão prévia do site, pasta MeuProjeto, e disponível abaixo. A responsividade do conteúdo para telas pequenas ainda não havia sido bem trabalhada.<br><br>
-# Entrega parcial:
+<h2> Entregas parciais: </h2>
+<h4> Versão segunda semana: </h4>
+- Prévia do projeto: <a href="https://previa-portfolio-bsw.netlify.app/">apenas para computador</a>
 <br>
-Prévia do projeto: <a href="https://previa-portfolio-bsw.netlify.app/">apenas para computador</a>
-<br>
-# Versão terceira semana:
-<br>
-Projeto quase finalizado: <a href="https://previa-portfolio-bsw.netlify.app/">responsividade melhorada para telas pequenas</a>
+<h4> Versão terceira semana: </h4>
+- Projeto quase finalizado: <a href="https://previa-portfolio-bsw.netlify.app/">responsividade melhorada para telas pequenas</a>
