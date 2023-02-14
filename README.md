@@ -19,18 +19,25 @@ A próxima tarefa consistiu em criar um protótipo de tela simples, da "homepage
 <br>
 <h4> Desenvolvimento do HTML e do CSS: </h4>
 Após, houveram três semanas para construção do site em si. Os requisitos a serem cumpridos eram:
-* Menu fixado, com links;
-* Seção inicial;
-* Seção sobre;
-* Seção habilidades;
-* Seção portfolio - contendo miniatura dos projetos e seus links;
-* Seção contato;
-* Footer;
+<ul>
+  <li>Menu fixado, com links;</li>
+  <li>Seção inicial;</li>
+  <li>Seção sobre;</li>
+  <li>Seção habilidades;</li>
+  <li>Seção portfolio - contendo miniatura dos projetos e seus links;</li>
+  <li>Seção contato;</li>
+  <li>Footer;</li>
+</ul>
 <br>
-Na segunda semana, foi entregue uma versão prévia do site, pasta MeuProjeto, e disponível abaixo. A responsividade do conteúdo para telas pequenas ainda não havia sido bem trabalhada. Uma nova versão foi entregue na terceira semana, pasta MeuProjeto_final_version, também disponível abaixo.<br>
+Na segunda semana, foi entregue uma versão prévia do site, <a href="https://github.com/BWartchow/ProjetoFinal_HappyCode/tree/main/Primeiras_versoes">aqui</a>, e com versão para navegador disponível abaixo. A responsividade do conteúdo para telas pequenas ainda não havia sido bem trabalhada. Uma nova versão foi entregue na terceira semana, diretório disponível no mesmo link, e versão para navegador também disponível abaixo.<br>
 <h2> Entregas parciais: </h2>
 <h4> Versão segunda semana: </h4>
 - Prévia do projeto: <a href="https://previa-portfolio-bsw.netlify.app/">apenas para computador</a>
 <br>
 <h4> Versão terceira semana: </h4>
 - Projeto quase finalizado: <a href="https://portfolio-bsw-v2.netlify.app/">responsividade melhorada para telas pequenas</a>
+<h1>Versão Atual</h1>
+<p>A última versão do projeto foi disponibilizada online em 14/02/23. Realizadas pequenas alterações desde a versão anterior. Acessibilidade do site avaliada em 80,66% (Avaliador e Simulador de Acessibilidade em Sítios - gov.br).
+  <a href="https://bsw-portfolio-v3.netlify.app/">Versão mais recente do site no ar - confira aqui.</a>
+ <br><br>
+  Desenvolvido com amor, por Bê Wartchow.
