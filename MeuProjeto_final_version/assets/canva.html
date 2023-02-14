@@ -1,4 +1,8 @@
-var paleta = document.querySelector('input');
+<canvas width="600" height="400"></canvas>
+selecione a cor <input type="color">
+
+<script>
+  var paleta = document.querySelector('input');
   var tela = document.querySelector('canvas');
   var pincel = tela.getContext('2d');
   pincel.fillStyle = 'grey';
@@ -25,3 +29,4 @@ var paleta = document.querySelector('input');
   tela.onmouseup = function() {
     desenha = false;
   }
+</script>

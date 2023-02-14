@@ -1,11 +1,13 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html>
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Be Wartchow</title>
     <!-- Meu CSS -->
 	<link rel="stylesheet" type="text/css" href="assets/style.css">
+    <!-- Meu JS -->
+	<script type="text/javascript" src="assets/script.js"></script>
     <!-- Bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
 	<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js" integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk" crossorigin="anonymous"></script>
@@ -39,11 +41,12 @@
         </div>
     </nav>
     <!-- Seção Hero Image -->
-	<section class="bgimage" id="inicio">
+    <section id="inicio">
+		<img class="bgimage" src="assets/img/heroimage.png">
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 hero-text">
-					<p class="hero_desc">My name is</p>
+				<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 hero-text">
+                    <p class="hero_desc">My name is</p>
 					<h2 class="hero_titulo">Bê Wartchow</h2>
                     <div class="subtitle">
                         <p>I'm a web developer Jr.</p>
@@ -56,11 +59,11 @@
 	<section id="sobre">
 		<div class="row">
 			<div class="col-lg-6 mt-4">
-				<h1 class="about">About me</h1>
-				<div class="bgimage02"></div>
+				<img class="bgimage02" src="assets/img/about.jpg">
 			</div>
 			<!-- infos -->
 			<div class="col-lg-6 mt-4">
+				<h1>About me</h1>
 				<h4 class="about">A Veterinary learning to Code</h4>
 				<p class="about">   Hi, my name is Bê. Nice to meet you!</p>
 				<p class="about">I'm an autistic and transgender person, with Veterinary Medicine degree	at Federal University of Rio Grande do Sul.</p>
@@ -75,22 +78,17 @@
 		</div>
 	</section>
 	<section>
-		<h4 class="label">Curiosity: I love to draw, do you wanna draw with me?</h4>
-		<label class="label">Pic a color here:</label> <input class="label" type="color"><br>
-		<canvas class="label" width="600" height="400"></canvas>
-	</section>
-	<section id="habilidades">
 		<div class="container">
-			<h1 class="habilidades">Abilities</h1>
+			<h1 id="habilidades">Abilities</h1>
 			<h4 id="languages">Languages & Frameworks & Tools</h4>
 			<div class="row">
 				<!-- Div habilidades frontend 1x1 -->
 				<div class="col-lg-12 mt-4" >
 					<div class="card-habilidades" class="html">
-						<img class="tech" alt="logo html" src="assets/img/html5-original-wordmark.svg">
-						<img class="tech" alt="logo css" src="assets/img/css3-original-wordmark.svg">
-						<img class="tech" alt="javascript html" src="assets/img/javascript-original.svg">
-						<img class="tech" alt="logo bootstrap" src="assets/img/bootstrap-original-wordmark.svg">
+						<img class="tech" src="assets/img/html5-original-wordmark.svg">
+						<img class="tech" src="assets/img/css3-original-wordmark.svg">
+						<img class="tech" src="assets/img/javascript-original.svg">
+						<img class="tech" src="assets/img/bootstrap-original-wordmark.svg">
 					</div>
 				</div>
 				
@@ -99,14 +97,14 @@
 				<!-- Div habilidades backend 2x1 -->
 				<div class="col-lg-8 mt-4">
 					<div class="card-habilidades" class="python">
-						<img class="tech" alt="logo python"  src="assets/img/python-original-wordmark.svg">
-						<img class="tech" alt="logo jupyter" src="assets/img/jupyter-original-wordmark.svg">
-						<img class="tech" alt="logo django" src="assets/img/django-plain-wordmark.svg">
+						<img class="tech" src="assets/img/python-original-wordmark.svg">
+						<img class="tech" src="assets/img/jupyter-original-wordmark.svg">
+						<img class="tech" src="assets/img/django-plain-wordmark.svg">
 					</div>
 				</div>
 				<div class="col-lg-4 mt-4" >
 					<div class="card-habilidades" class="java">
-						<img class="tech" alt="logo java"  src="assets/img/java-original-wordmark.svg">
+						<img class="tech" src="assets/img/java-original-wordmark.svg">
 					</div>
 				</div>
 			</div>
@@ -114,13 +112,13 @@
 				<!-- Div habilidades ferramentas 3x1 -->
 				<div class="col-lg-4 mt-4">
 					<div class="card-habilidades" class="ide">
-						<img class="tech" alt="logo vs code"  src="assets/img/vscode-original-wordmark.svg">
+						<img class="tech" src="assets/img/vscode-original-wordmark.svg">
 					</div>
 				</div>
 				<div class="col-lg-8 mt-4">
 					<div class="card-habilidades" class="git">
-						<img class="tech" alt="logo git"  src="assets/img/git-original-wordmark.svg">
-						<img class="tech" alt="logo github"  src="assets/img/github-original-wordmark.svg">
+						<img class="tech" src="assets/img/git-original-wordmark.svg">
+						<img class="tech" src="assets/img/github-original-wordmark.svg">
 					</div>
 				</div>
 			</div>
@@ -129,10 +127,9 @@
 <!-- Seção Portfólio-->
 <section id="portfolio">
 	<div class="container mt-3">
-		<h1 id="works">My Works</h1>
-		<h4 id="info">Slide below:</h4>
+		<h1 id="works">My Works<span style="text-transform: lowercase; font-size: 2rem;"> - slide below:</span></h1>
 		<section class="slider">
-			<input name='slide' type="radio" style="margin-left: 5%;" checked>
+			<input name='slide' style="margin-left: 30rem;" type="radio" checked>
 			<input name='slide' type="radio" >
 			<input name='slide' type="radio">
 			<input name='slide' type="radio">
@@ -250,8 +247,8 @@
 					<h2><img src="assets/img/whats.png" id="fone">+55 51 99810-7090</h2>
 					<h3>Bê Wartchow</h3>
 					<div>
-						<a href="https://github.com/BWartchow"><img alt="logo github" src="assets/img/github-original-wordmark.svg"></a>
-						<a href="https://www.linkedin.com/in/b-wartchow/"><img alt="logo linkedin" src="assets/img/linkedin.png"></a>
+						<a href="https://github.com/BWartchow"><img src="assets/img/github-original-wordmark.svg"></a>
+						<a href="https://www.linkedin.com/in/b-wartchow/"><img src="assets/img/linkedin.png"></a>
 					</div>
 				</div>
 			</div>
@@ -264,33 +261,4 @@
 	<p class="copyright">Confira o repositório deste projeto no github <a href="https://github.com/BWartchow/ProjetoFinal_HappyCode" class="link-branco">aqui.</a></p>
 </footer>
 </body>
-<script>
-	var paleta = document.querySelector('input');
-	var tela = document.querySelector('canvas');
-	var pincel = tela.getContext('2d');
-	pincel.fillStyle = '#F2B3BF';
-	pincel.fillRect(0, 0, 600, 400);
-	var desenha = false;
-	
-	  function desenhaCirculo(evento) {
-		if (desenha) {
-		  var x = evento.pageX - tela.offsetLeft;
-		  var y = evento.pageY - tela.offsetTop;
-		  pincel.fillStyle = paleta.value; // sempre pega o valor atual da paleta!
-		  pincel.beginPath();
-		  pincel.arc(x, y, 3, 0, 2 * 3.14);
-		  pincel.fill();
-		}
-		console.log(x + ',' + y);
-	  }
-	  tela.onmousemove = desenhaCirculo;
-	  // atribuindo diretamente a função anônima
-	  tela.onmousedown = function() {
-		desenha = true;
-	  }
-	  // atribuindo diretamente a função anônima
-	  tela.onmouseup = function() {
-		desenha = false;
-	  }
-</script>
 </html>
