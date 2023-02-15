@@ -1,0 +1,80 @@
+@import url('inicio.css');
+@import url('sobre.css');
+@import url('habilidades.css');
+@import url('portfolio.css');
+@import url('contato.css');
+@import url('footer.css');
+
+/*--------------------------RESET CSS--------------------------*/
+html, body {
+    margin: 0; 
+    padding: 0;
+    overflow-x: hidden;
+}
+
+#inicio, #sobre, #habilidades, #portfolio, #contato {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+/*---------------------FUNDO E FONTE GERAIS---------------------*/
+.body {
+    background-color: #00375C;
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+ }
+
+/*-------------------PARA TELAS MENORES-------------------------*/
+
+ @media screen and (max-width: 480px) {
+	#inicio, #sobre, #habilidades, #portfolio, #contato {
+		width: auto;
+        overflow: auto;
+	}
+
+    html, body {
+        margin: 0; 
+        padding: 0;
+        overflow-x:auto;
+    }
+
+	h1 {
+		text-align: center;
+	}
+
+	nav {
+		position: static;
+	}
+
+	.imagem-sobre {
+		width: 100%;
+	}
+
+    .bgimage{
+        background-size: cover;
+        position: relative;
+        left: 0;
+        margin: auto;
+     }
+    .hero-text {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+     }
+
+    .hero_desc {
+        font-size: 1.5rem;
+    }
+    .hero_titulo {
+       font-size: 2rem;
+    }
+    .subtitle {
+       font-size: 1.5rem;
+    }
+
+    .cards, .cards2 {
+        position: relative;
+        left: 0;
+        margin: auto;
+     }
+}
