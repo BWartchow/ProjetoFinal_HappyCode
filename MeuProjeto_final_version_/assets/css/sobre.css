@@ -1,0 +1,51 @@
+/*---------------------SESSÃO SOBRE---------------------*/
+/*Desenho*/
+.imagemsobre {
+    width: 80%;
+	
+}
+
+/*Título SOBRE*/
+#about {
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    margin-bottom: 0rem;
+    text-shadow: 1px 1px 2px black;
+    letter-spacing: 0.2rem;
+    margin-left: 35%;
+ }
+
+ h2 {
+    font-weight: 300;
+    text-shadow: 1px 1px 2px black;
+    letter-spacing: 0.2rem;
+    margin-left: 1rem;
+    font-size: 2rem;
+    margin-top: 4rem;
+}
+
+ /*Descrição sobre mim*/
+ .about {
+    font-size: 1rem;
+    letter-spacing: 0.2rem;
+    font-weight: 300;
+    padding-top: 0.5rem;
+    margin-right: 2rem;
+    margin-left: 1rem;
+ }
+
+ .about li{
+    list-style-type: none;
+    list-style-position: inside;
+    font-size: 1rem;
+    padding: 0.25rem;
+ }
+
+ /*Links do corpo do texto*/
+ .link-branco{
+     color: #fff;
+ }
+
+ .link-branco:hover {
+     color: #049DBF;
+ }
