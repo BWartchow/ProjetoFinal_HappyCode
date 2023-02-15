@@ -15,11 +15,13 @@ O projeto final consiste em um site portfólio, com uma apresentação sobre que
 
 Diretório | Conteúdo | Subdiretórios | Conteúdo | Versão
 :--------- | :------: | :-------: | :-------: | -------:
-MeuProjeto_final_version | assets/css | não | arquivos css, importados global.css, importado em index.html | Final
+MeuProjeto_final_version_ | assets/css | não | arquivos css, importados global.css, importado em index.html | Final
 ... | assets/img | não | imagens utilizadas no site | Final
 ... | assets/Portfolio | sim | links-arquivos importados na seção Portfólio em index.html | Final
-Primeiras_versoes | MeuProjeto | sim | primeira versão do site (tarefa 17) | 1.0
-... | MeuProjeto_ | sim | segunda versão do site (tarefa 18) | 1.1
+Primeiras_versoes | MeuProjeto_1.0 | sim | primeira versão do site (tarefa 17) | 1.0
+... | MeuProjeto_1.1 | sim | segunda versão do site (tarefa 18) | 1.1
+... | MeuProjeto_1.2 | sim | terceira versão do site (tarefa 19) | 1.2
+Tarefas | screenshots | não | imagens utilizadas no README | -
 
 ## Etapas do projeto:
 Inicialmente, os alunos tiveram como tarefa criar um painel de referências para o projeto, com imagens, layouts, paletas de cores e fontes. Por ser pessoa transgênero, a paleta de cores do site foi retirada de uma ilustração inspirada na bandeira do orgulho trans. O quadro abaixo foi criado com a ferramenta Pure Ref:
@@ -54,38 +56,50 @@ Após, houveram três semanas para construção do site em si. Os requisitos a s
 
 <br>
 
+![menu](https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Screenshot_20230215-180510_Chrome.jpg)
+
+![inicio](https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Captura%20de%20tela%202023-02-15%20203448.png)
+
+![sobre](https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Captura%20de%20tela%202023-02-15%20203515.png)
+
+![Footer e contato](https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Captura%20de%20tela%202023-02-15%20200814.png)
+
 ## Tecnologias Utilizadas:
 
 ### Bootstrap
 
 Utilizou-se classes do framework bootstrap para a disposição dos elementos em linhas e colunas.
 
-![]()
+![habilidades](https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Captura%20de%20tela%202023-02-15%20202636.png)
 
 ### Glassmorphism
 
 Um gerador do efeito CSS de [glasmorphism](https://css.glass/) foi utilizado para estilização de elementos. Outro gerador de CSS online foi utilizado para o efeito de [sombras](https://www.cssmatic.com/box-shadow) nos elementos.
 
-![]()
+![Glassmorphism](https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/glass.png)
+
+![aplicacao](https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Captura%20de%20tela%202023-02-15%20200713.png)
 
 ### Google fonts e Ícones
 
 A fonte utilizada no site foi importada diretamente do recurso Fonts do google, bem como o ícone principal "all-inclusive". Os demais ícones são do
 [FontAwesome](https://fontawesome.com/).
 
-![]()
+![icone](https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Screenshot_20230215-180500_Chrome.jpg)
 
 ### Carrossel de projetos
 
 Optou-se por utilizar um carrossel "slider" para apresentação dos projetos na seção Portfólio. Realizado apenas com CSS e HTML.
 
-![]()
+![carrossel](https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Captura%20de%20tela%202023-02-15%20202126.png)
+
+![carrossel celular](https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Screenshot_20230215-180646_Chrome.jpg)
 
 ### JavaScript
 
 Para inclusão de JavaScript no portfólio, optou-se por utilizar a tag canvas do html e assim permitir ao usuário desenhar na tela por meio de funções com JavaScript. 
 
-![]()
+![canva](https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/20230214_170842.jpg)
 
 ## Entregas Parciais:
 
@@ -93,7 +107,7 @@ As versões do projeto desenvolvidas até a terceira semana do período de const
 
 # Última versão:
 
-A última versão do projeto foi disponibilizada online em 15/02/23. Acessibilidade do site avaliada em 81,1% (Avaliador e Simulador de Acessibilidade em Sítios - gov.br). Ela se encontra no [diretório](https://github.com/BWartchow/ProjetoFinal_HappyCode/tree/main/MeuProjeto_final_version) "MeuProjeto_final_version" deste repositório.
+A última versão do projeto foi disponibilizada online em 15/02/23. Acessibilidade do site avaliada em 81,1% (Avaliador e Simulador de Acessibilidade em Sítios - gov.br). Ela se encontra no [diretório](https://github.com/BWartchow/ProjetoFinal_HappyCode/tree/main/MeuProjeto_final_version_) "MeuProjeto_final_version_" deste repositório.
 
 
 <p align=center >Desenvolvido com amor, por Bê Wartchow.<p>
