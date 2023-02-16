@@ -29,7 +29,7 @@ Inicialmente, os alunos tiveram como tarefa criar um painel de referências para
 ### Painel de referências:
 <br>
 
-![Painel de referências](https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/painel_de_referencias_BWartchow.png)
+<img src="https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/painel_de_referencias_BWartchow.png" width=500px>
 
 <br>
 A próxima tarefa consistiu em criar um protótipo de tela simples, da "homepage" do projeto. O protótipo abaixo foi realizado utilizando a ferramenta JustInMind:
@@ -37,9 +37,9 @@ A próxima tarefa consistiu em criar um protótipo de tela simples, da "homepage
 
 ### Protótipo de tela:
 
-![Prototipo de tela](https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Screen%201%401x.png)
+<img src="https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Screen%201%401x.png" width=500px>
 
-![Prototipo de tela](https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Screen%202%401x.png)
+<img src="https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Screen%202%401x.png" width=500px>
 <br>
 
 ### Desenvolvimento do HTML e do CSS:
@@ -56,13 +56,14 @@ Após, houveram três semanas para construção do site em si. Os requisitos a s
 
 <br>
 
-![menu](https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Screenshot_20230215-180510_Chrome.jpg)
+<img src="https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Screenshot_20230215-180510_Chrome.jpg" height=500px>
 
-![inicio](https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Captura%20de%20tela%202023-02-15%20203448.png)
+<img src="https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Captura%20de%20tela%202023-02-15%20203448.png" width=500px>
 
-![sobre](https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Captura%20de%20tela%202023-02-15%20203515.png)
+<img src="https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Captura%20de%20tela%202023-02-15%20203515.png" width=500px>
 
-![Footer e contato](https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Captura%20de%20tela%202023-02-15%20200814.png)
+<img src="https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Captura%20de%20tela%202023-02-15%20200814.png" width=500px>
+
 
 ## Tecnologias Utilizadas:
 
@@ -70,36 +71,36 @@ Após, houveram três semanas para construção do site em si. Os requisitos a s
 
 Utilizou-se classes do framework bootstrap para a disposição dos elementos em linhas e colunas.
 
-![habilidades](https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Captura%20de%20tela%202023-02-15%20202636.png)
+<img src="https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Captura%20de%20tela%202023-02-15%20202636.png" width=500px>
 
 ### Glassmorphism
 
 Um gerador do efeito CSS de [glasmorphism](https://css.glass/) foi utilizado para estilização de elementos. Outro gerador de CSS online foi utilizado para o efeito de [sombras](https://www.cssmatic.com/box-shadow) nos elementos.
 
-![Glassmorphism](https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/glass.png)
+<img src="https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/glass.png" width=500px>
 
-![aplicacao](https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Captura%20de%20tela%202023-02-15%20200713.png)
+<img src="https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Captura%20de%20tela%202023-02-15%20200713.png" width=500px>
 
 ### Google fonts e Ícones
 
 A fonte utilizada no site foi importada diretamente do recurso Fonts do google, bem como o ícone principal "all-inclusive". Os demais ícones são do
 [FontAwesome](https://fontawesome.com/).
 
-![icone](https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Screenshot_20230215-180500_Chrome.jpg)
+<img src="https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Screenshot_20230215-180500_Chrome.jpg" height=500px>
 
 ### Carrossel de projetos
 
 Optou-se por utilizar um carrossel "slider" para apresentação dos projetos na seção Portfólio. Realizado apenas com CSS e HTML.
 
-![carrossel](https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Captura%20de%20tela%202023-02-15%20202126.png)
+<img src="https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Captura%20de%20tela%202023-02-15%20202126.png" width=500px>
 
-![carrossel celular](https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Screenshot_20230215-180646_Chrome.jpg)
+<img src="https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/Screenshot_20230215-180646_Chrome.jpg" height=500px>
 
 ### JavaScript
 
 Para inclusão de JavaScript no portfólio, optou-se por utilizar a tag canvas do html e assim permitir ao usuário desenhar na tela por meio de funções com JavaScript. 
 
-![canva](https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/20230214_170842.jpg)
+<img src="https://github.com/BWartchow/ProjetoFinal_HappyCode/blob/main/Tarefas/20230214_170842.jpg" width=500px>
 
 ## Entregas Parciais:
 
