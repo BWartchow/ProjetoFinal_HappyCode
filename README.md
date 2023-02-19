@@ -3,8 +3,8 @@
 # Projeto Final - Do Zero ao Primeiro Site: portfolio
 
 ![Projeto em desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-
-Este repositório contém o projeto final realizado no último módulo do curso "Do Zero ao Primeiro Site" ministrado pela HappyCode, via Programa +praTI.
+<br><br>SITE NO AR \o/ : https://bwartchow-portfolio.netlify.app/
+<br><br>Este repositório contém o projeto final realizado no último módulo do curso "Do Zero ao Primeiro Site" ministrado pela HappyCode, via Programa +praTI.
 <br>
 > A +praTI é uma iniciativa da sociedade sem fins lucrativos que busca encontrar e capacitar novos talentos da área de TI. A HappyCode é uma empresa parceira, que ensina formação frontend para alunos da +praTI através do curso "Do Zero ao Primeiro Site".
 <br>
@@ -108,7 +108,7 @@ As versões do projeto desenvolvidas até a terceira semana do período de const
 
 # Última versão:
 
-A última versão do projeto foi disponibilizada online em 15/02/23. Acessibilidade do site avaliada em 81,1% (Avaliador e Simulador de Acessibilidade em Sítios - gov.br). Ela se encontra no [diretório](https://github.com/BWartchow/ProjetoFinal_HappyCode/tree/main/MeuProjeto_final_version_) "MeuProjeto_final_version_" deste repositório.
+A última versão do projeto foi disponibilizada online em 18/02/23. Acessibilidade do site avaliada em 81,1% (Avaliador e Simulador de Acessibilidade em Sítios - gov.br). Ela se encontra no [diretório](https://github.com/BWartchow/ProjetoFinal_HappyCode/tree/main/MeuProjeto_final_version_) "MeuProjeto_final_version_" deste repositório e também hospedado [aqui](https://bwartchow-portfolio.netlify.app/) via Netlifyapp.
 
 
 <p align=center >Desenvolvido com amor, por Bê Wartchow.<p>
