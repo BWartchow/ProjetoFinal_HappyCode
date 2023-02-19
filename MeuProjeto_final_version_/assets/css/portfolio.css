@@ -193,6 +193,18 @@
 .slider2 > input:nth-child(4):checked ~ .slider-content2{
     transform: translateX(-300%);
 }
+/* Projeto 05 - 02 - slice*/
+.slider2 > input:nth-child(5):checked ~ .slider-content2{
+    transform: translateX(-400%);
+}
+/* Projeto 06 - 02 - slice*/
+.slider2 > input:nth-child(6):checked ~ .slider-content2{
+    transform: translateX(-500%);
+}
+/* Projeto 07 - 02 - slice*/
+.slider2 > input:nth-child(7):checked ~ .slider-content2{
+    transform: translateX(-600%);
+}
 
 
 /* INPUTS RADIO do Slider*/
